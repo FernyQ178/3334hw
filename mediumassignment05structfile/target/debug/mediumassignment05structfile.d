@@ -1,0 +1,1 @@
+/workspaces/3334hw/mediumassignment05structfile/target/debug/mediumassignment05structfile: /workspaces/3334hw/mediumassignment05structfile/src/main.rs
