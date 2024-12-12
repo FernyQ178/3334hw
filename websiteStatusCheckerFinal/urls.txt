@@ -1,0 +1,10 @@
+https://httpstat.us/200
+https://httpstat.us/404
+https://httpstat.us/500
+https://example.com
+https://example.org
+https://example.net
+https://www.google.com
+https://www.github.com
+https://www.stackoverflow.com
+https://www.wikipedia.org
